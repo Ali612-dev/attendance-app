@@ -2,7 +2,7 @@
 
 Last updated: January 2025
 
-Attendance Manager ("we", "our", or "us") respects your privacy and is committed to protecting your personal data.
+Attendance Manager we respects your privacy and is committed to protecting your personal data.
 
 ## Information We Collect
 We may collect the following information:
